@@ -1,6 +1,6 @@
 @REM remember to change angular.json, "outputPath": "docs",
 
-ng build --configuration production —base-href ./
+ng build --configuration production
 
 pause
 
