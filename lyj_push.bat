@@ -1,3 +1,10 @@
+cd docs
+cd browser
+move *.* ../
+
+cd..
+cd..
+
 git add . 
 git commit -m "Init app"
 git push 
