@@ -1,3 +1,3 @@
-ng serve -open
+ng serve --open
 
 pause
